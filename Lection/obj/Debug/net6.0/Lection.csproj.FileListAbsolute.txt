@@ -1,0 +1,15 @@
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.csproj.AssemblyReference.cache
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.AssemblyInfoInputs.cache
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.AssemblyInfo.cs
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.csproj.CoreCompileInputs.cache
+C:\Users\Вика\Desktop\Seminar#\Lection\bin\Debug\net6.0\Lection.exe
+C:\Users\Вика\Desktop\Seminar#\Lection\bin\Debug\net6.0\Lection.deps.json
+C:\Users\Вика\Desktop\Seminar#\Lection\bin\Debug\net6.0\Lection.runtimeconfig.json
+C:\Users\Вика\Desktop\Seminar#\Lection\bin\Debug\net6.0\Lection.dll
+C:\Users\Вика\Desktop\Seminar#\Lection\bin\Debug\net6.0\Lection.pdb
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.dll
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\refint\Lection.dll
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.pdb
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\Lection.genruntimeconfig.cache
+C:\Users\Вика\Desktop\Seminar#\Lection\obj\Debug\net6.0\ref\Lection.dll
